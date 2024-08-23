@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SpeechRecognition.ConsoleApp", "SpeechRecognition.ConsoleApp\SpeechRecognition.ConsoleApp.csproj", "{2112F92E-CBCC-4D65-9382-AD14A2A188B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Speech2", "Speech2\Speech2.csproj", "{1C7A84AC-C3E8-4B51-9650-324D7F4BA180}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2112F92E-CBCC-4D65-9382-AD14A2A188B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2112F92E-CBCC-4D65-9382-AD14A2A188B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2112F92E-CBCC-4D65-9382-AD14A2A188B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2112F92E-CBCC-4D65-9382-AD14A2A188B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C7A84AC-C3E8-4B51-9650-324D7F4BA180}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C7A84AC-C3E8-4B51-9650-324D7F4BA180}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C7A84AC-C3E8-4B51-9650-324D7F4BA180}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C7A84AC-C3E8-4B51-9650-324D7F4BA180}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C56AEE4D-27D2-4AB7-B8A7-1812A7F3537E}
+	EndGlobalSection
+EndGlobal
